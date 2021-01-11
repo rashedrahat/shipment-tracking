@@ -1,0 +1,30 @@
+.fullscreenDivAtHome {
+    background: url("../img/earth-space.jpeg") no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+
+.fullscreenDivOtherPages {
+    background-color: white;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+
+.center {
+    color: white;
+}
+
+.disable-txt {
+    color: darkgrey;
+}
+
